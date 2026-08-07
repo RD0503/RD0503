@@ -40,6 +40,19 @@ Actualmente formándome en **EducacionIT**, construyendo proyectos de a poco y d
 
 <br>
 
+ ## ⏱ Streak Stats
+ 
+ <div align=center>
+  
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abdalrahman-Alhamod&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
+
+ </div>
+
+ ## 📈 Activity Graph
+ 
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdalrahman-Alhamod&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ## Contribuciones
 
 <div align="center">
@@ -48,13 +61,11 @@ Actualmente formándome en **EducacionIT**, construyendo proyectos de a poco y d
 
 <br>
 
-## Contacto
+### 🔗 &nbsp;Contact Me
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/rodrigo-alfredo-vega/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1c1c1c?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:tuemail@ejemplo.com"><img src="https://img.shields.io/badge/Email-1c1c1c?style=flat-square&logo=gmail&logoColor=white"/></a>
-
+<a href="mailto:rodrigoalfredovega2003@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rodrigo-alfredo-vega"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
 <br>
