@@ -54,6 +54,9 @@ Actualmente me encuentro formándome en EducacionIT, fortaleciendo mis habilidad
   <a href="https://github.com/RD0503" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-RD0503-1c1c1c?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="mailto:rodrigoalfredovega2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rodrigoalfredovega2003%40gmail.com-1c1c1c?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </div>
 
 <br>
