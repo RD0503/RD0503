@@ -35,7 +35,7 @@ Actualmente formándome en **EducacionIT**, construyendo proyectos de a poco y d
 ## Estadísticas
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RD0503/RD0503/output/metrics.svg" width="100%" alt="estadísticas de GitHub"/>
+  <img src="./metrics.svg" width="100%" alt="estadísticas de GitHub"/>
 </div>
 
 <br>

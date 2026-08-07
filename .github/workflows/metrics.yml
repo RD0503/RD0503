@@ -14,9 +14,6 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -28,14 +25,3 @@ jobs:
           plugin_languages_limit: 8
           config_timezone: America/Argentina/Jujuy
           config_display: large
-
-      - name: Push a la rama output
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git checkout --orphan output-metrics-tmp
-          git rm -rf . > /dev/null 2>&1 || true
-          git add -f metrics.svg
-          git commit -m "generate metrics"
-          git fetch origin output:output 2>/dev/null || true
-          git push origin output-metrics-tmp:output --force
