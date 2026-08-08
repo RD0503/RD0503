@@ -57,8 +57,6 @@ Actualmente formándome en **EducacionIT**, construyendo proyectos de a poco y d
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/RD0503/RD0503/output/github-contribution-grid-snake.svg" width="100%" alt="gráfico de contribuciones"/>
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
 </div>
 
 <br>
