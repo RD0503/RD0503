@@ -73,3 +73,5 @@ Actualmente formándome en **EducacionIT**, construyendo proyectos de a poco y d
 <div align="center">
   <sub>San Salvador de Jujuy, Jujuy, Argentina</sub>
 </div>
+
+![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
