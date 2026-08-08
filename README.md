@@ -5,7 +5,7 @@
 
 <div align="center">
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=20&pause=1200&color=3D3D3D&center=true&vCenter=true&width=600&lines=HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+React;Python+%C2%B7+Django+%C2%B7+MongoDB;Full+Stack+Developer+en+formaci%C3%B3n" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=20&pause=1200&color=3D3D3D&center=true&vCenter=true&width=600&lines=%22Si+lo+pod%C3%A9s+imaginar%2C+lo+pod%C3%A9s+programar.%22;Full+Stack+Developer+en+formaci%C3%B3n" alt="Typing SVG"/>
 </a>
 </div>
 <br>
