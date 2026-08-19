@@ -11,7 +11,7 @@
 <br>
 
 ## About Me / Sobre mí
-es funcionales en el frontend y APIs robustas en el backend, con MongoDB como base de datos. Actualmente perfeccionando mis habilidades en **EducacionIT** con foco en buenas prácticas, código limpio y arquitectura escalable. Con base en San Salvador de Jujuy, Argentina.
+Desarrollador Full Stack en formación, especializado en JavaScript, React, Python y Django. Construyo interfaces frontend funcionales y API backend robustas, utilizando MongoDB como capa de base de datos. Actualmente estoy perfeccionando mis habilidades en EducacionIT, con un enfoque en mejores prácticas, código limpio y arquitectura escalable. Con sede en San Salvador de Jujuy, Argentina.
 
 Full Stack Developer in training, specializing in JavaScript, React, Python, and Django. I build functional frontend interfaces and robust backend APIs, using MongoDB as the database layer. Currently sharpening my skills at EducacionIT, with a focus on best practices, clean code, and scalable architecture. Based in San Salvador de Jujuy, Argentina.
 <br>
